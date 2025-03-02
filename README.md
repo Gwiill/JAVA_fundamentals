@@ -1,2 +1,2 @@
-# JAVA_fundamentals
+# JAVA_Projects
 Estruturas básicas em JAVA.
